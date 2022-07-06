@@ -1,0 +1,3 @@
+[submodule "twitterBack"]
+	path = twitterBack
+	url = git@github.com:thimoti26/twitterBack.git
