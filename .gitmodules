@@ -1,3 +1,6 @@
 [submodule "twitterBack"]
 	path = twitterBack
 	url = git@github.com:thimoti26/twitterBack.git
+[submodule "twitterFront"]
+	path = twitterFront
+	url = git@github.com:thimoti26/twitterFront.git
